@@ -1,0 +1,7 @@
+My Skills :
+* Good understanding of Core PHP and PHP OOP features and methods of working.
+* Practical experience with Laravel Framework and its MVC pattern. A solid foundation on Laravel Eloquent ORM & Query Builder.
+* Good Knowledge about MySQL and experience with a Relational Database. Payment Methods integration (Paypal, Stripe).
+* Strong knowledge of HTML5, CSS3, and Bootstrap.
+* Good experience in JavaScript, jQuery, and jQuery Ajax requests.
+* Working experience in using version control tools such as GitHub, GitLab & Bitbucket.
